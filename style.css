@@ -1,0 +1,9 @@
+body{
+    background-color: pink;
+}
+#starter1{
+    height: 30px;
+    width: 10%;
+    padding: 2%;
+    background-color: blue;
+}
