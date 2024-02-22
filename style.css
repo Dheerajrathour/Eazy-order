@@ -1,6 +1,10 @@
 body{
     background-color: pink;
 }
+header{
+    background-color: red;
+    height: 80px;
+}
 #starter1{
     height: 30px;
     width: 10%;
